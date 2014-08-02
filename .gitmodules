@@ -1,0 +1,3 @@
+[submodule "dangerous_prototypes"]
+	path = dangerous_prototypes
+	url = repos:/git-svn/electronics/lib_kicad_dangerous_prototypes
